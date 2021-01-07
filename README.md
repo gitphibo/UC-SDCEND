@@ -1,2 +1,2 @@
 # UC-SDCEND
-Repository for Self-Driving Car Engineer Nanodegree
+Repository for Udacity Self-Driving Car Engineer Nanodegree
